@@ -3,7 +3,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "hooktheory/braintreehttp": "dev-ht"
+    "braintree/braintreehttp": "dev-ht"
   },
   "require-dev": {
     "phpunit/phpunit": "^5.7",
