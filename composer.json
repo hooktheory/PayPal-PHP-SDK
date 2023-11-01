@@ -1,5 +1,5 @@
 {
-  "name": "paypal/paypal-php-sdk",
+  "name": "hooktheory/paypal-php-sdk",
   "type": "library",
   "license": "MIT",
   "require": {
@@ -33,5 +33,5 @@
         "type": "vcs",
         "url": "https://github.com/hooktheory/braintreehttp_php.git"
     }
-]
+  ]
 }
