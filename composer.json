@@ -1,5 +1,5 @@
 {
-  "name": "hooktheory/paypal-php-sdk",
+  "name": "hooktheory/rest-api-sdk-php",
   "type": "library",
   "license": "MIT",
   "require": {
