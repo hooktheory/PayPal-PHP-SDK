@@ -3,7 +3,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "braintree/braintreehttp": "^0.2.4"
+    "braintree/braintreehttp": "dev-ht"
   },
   "require-dev": {
     "phpunit/phpunit": "^5.7",
@@ -27,5 +27,11 @@
   "scripts": {
     "unit": "phpunit --testsuite unit",
     "integration": "phpunit --testsuite integration"
-  }
+  },
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/hooktheory/braintreehttp_php.git"
+    }
+]
 }
